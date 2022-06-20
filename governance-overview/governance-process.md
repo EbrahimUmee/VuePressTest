@@ -1,15 +1,10 @@
 # ❓ How It Works
 
-**There are four main steps for all Umee governance proposals:**
+## Creating a Proposal
 
-1. **Discussion**
-2. **Drafting the Proposal**
-3. **Engaging With the Community & Reviewing the Proposal**
-4. **Submitting the Proposal On-Chain**
+First, an idea should gain traction within the community and a proposal should be drafted. Community members should utilize the appropriate channels on [<mark style="color:blue;">Umee’s Governance Forum</mark>](https://commonwealth.im/umee/) and [<mark style="color:blue;">Umee's Discord</mark>](https://discord.gg/YukEZy8nkc) to discuss potential proposals before starting the draft process. Proposal ideas should be reviewed rigorously before taking any further steps.&#x20;
 
-## Drafting the Proposal
-
-First, an idea should gain traction within the community and a proposal should be drafted. Community members should utilize the appropriate channels on [<mark style="color:blue;">Umee’s Commonwealth</mark>](https://commonwealth.im/umee/) and [<mark style="color:blue;">Umee's Discord</mark>](https://discord.gg/YukEZy8nkc) to discuss potential proposals before starting the draft process. Proposal ideas should be reviewed rigorously before taking any further steps.
+_**Refer to the "**_[_<mark style="color:blue;">**Creating a Proposal**</mark>_](https://docs.umee.cc/user-guides/governance/creating-a-proposal)_**" guide to learn the process for creating and submitting an on-chain governance proposal.**_
 
 ## The Deposit Period
 
@@ -38,14 +33,12 @@ If less than 40% of eligible votes are cast, deposits will be burned. This helps
 ## Vetoed
 
 If more than 33% of the voting power votes “NoWithVeto,” deposits will be burned. This is an extra precaution in case poor or destructive proposals are able to meet the minimum deposit before the deadline.
-
-By requiring a minimum deposit amount, proposers are incentivized to take the governance process seriously or they risk losing funds.
 {% endtab %}
 {% endtabs %}
 
 ## **The Voting Period**
 
-After the minimum deposit has been met for a proposal, the proposal enters the voting period. The voting period is a fixed 5 day period where eligible community members can vote on the proposal. Votes can be cast in the following four ways:
+After the minimum deposit has been met for a proposal, the proposal enters the voting period. The voting period is a fixed **5 day period** where eligible community members can vote on the proposal. Votes can be cast in the following four ways:
 
 {% tabs %}
 {% tab title="Yes" %}

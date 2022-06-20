@@ -2,8 +2,13 @@
 
 ![](<.gitbook/assets/Umee Governance Infographic.png>)
 
-Umee uses an on-chain governance structure for text proposals, changes in consensus parameters, and the use of funds from the community and ecosystem pools. Governance proposals are voted on by community members who [<mark style="color:blue;">stake UMEE</mark>](https://docs.umee.cc/user-guides/staking-umee/staking-umee); when community members who stake their UMEE fail to [<mark style="color:blue;">vote</mark>](https://docs.umee.cc/user-guides/governance/voting) before a deadline, their votes are inherited by the validator they have delegated their stakes to.&#x20;
+Umee uses an on-chain governance structure where governance proposals are voted on by community members who [<mark style="color:blue;">stake UMEE</mark>](https://docs.umee.cc/user-guides/staking-umee/staking-umee). <mark style="color:blue;"></mark> When community members who stake their UMEE fail to [<mark style="color:blue;">vote</mark>](https://docs.umee.cc/user-guides/governance/voting) before a deadline, their votes are inherited by the [<mark style="color:blue;">validator</mark>](https://docs.umee.cc/user-guides/staking-umee/selecting-a-validator) they have delegated their stake to.&#x20;
 
-Since Umee’s governance takes place on-chain, the results of votes are always visible by everyone. Additionally, votes on certain proposals can trigger on-chain events that can not be stopped by any single person or group of people including the Umee core team.
+Since Umee’s governance takes place on-chain, the results of votes are always visible by everyone. Additionally, votes on certain proposals other than text proposals can trigger on-chain events that can not be stopped by a single person or group of people including the Umee core team.
 
 Umee aims to make the governance process as easy and accessible as possible. If you have any suggestions, please share them with the community in the #suggestions channel on the [<mark style="color:blue;">Umee Discord server</mark>](https://discord.gg/umee).
+
+## Get Involved
+
+* _****_[_<mark style="color:blue;">**Learn how to vote on a governance proposal**</mark>_](https://docs.umee.cc/user-guides/governance/voting)_<mark style="color:blue;">****</mark>_
+* _****_[_<mark style="color:blue;">**Learn how to create an on-chain governance proposal**</mark>_](https://docs.umee.cc/user-guides/governance/creating-a-proposal)_<mark style="color:blue;">****</mark>_
