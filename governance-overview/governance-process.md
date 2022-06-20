@@ -1,4 +1,4 @@
-# How It Works
+# ❓ How It Works
 
 **There are four main steps for all Umee governance proposals:**
 

@@ -1,4 +1,4 @@
-# 📜 Governance
+# 🏛 Governance
 
 ![](<.gitbook/assets/Umee Governance Infographic.png>)
 

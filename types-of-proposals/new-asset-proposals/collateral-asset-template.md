@@ -1,2 +1,0 @@
-# Collateral Asset Template
-
