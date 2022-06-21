@@ -9,7 +9,7 @@ Foundation Spend Proposals are used to request funds from the <mark style="color
 #### A few ways in which the funds might be spent include:
 
 * _**Creating and funding various Umee DAOs;**_&#x20;
-* _**Liquidity mining incentives;**_&#x20;
+* _****_[_<mark style="color:blue;">**Liquidity mining incentives**</mark>_](liquidity-incentives/)_**;**_&#x20;
 * _**Funding large scale community events;**_&#x20;
 * _**Grants to top contributors;**_&#x20;
 * _**Strategically acquiring crypto assets to gain voting power in key protocols;**_&#x20;
