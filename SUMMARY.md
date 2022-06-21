@@ -8,13 +8,13 @@
 
 ## Types of Proposals
 
-* [New Asset Listing](types-of-proposals/new-asset-listing/README.md)
+* [🆕 New Asset Listing](types-of-proposals/new-asset-listing/README.md)
   * [New Asset Listing Template](types-of-proposals/new-asset-listing/new-asset-listing-template.md)
-* [Liquidity Incentives](types-of-proposals/liquidity-incentives/README.md)
-  * [Liquidity Incentives Template](types-of-proposals/liquidity-incentives/liquidity-incentives-template.md)
-* [Foundation Spend Proposals](types-of-proposals/foundation-spend-proposals.md)
-* [Text Proposals](types-of-proposals/text-proposals.md)
-* [Parameter Change Proposals](types-of-proposals/parameter-change-proposals.md)
+* [⛏ Liquidity Mining Incentives](types-of-proposals/liquidity-mining-incentives/README.md)
+  * [Liquidity Incentives Template](types-of-proposals/liquidity-mining-incentives/liquidity-incentives-template.md)
+* [💸 Foundation Spend Proposals](types-of-proposals/foundation-spend-proposals.md)
+* [✍ Text Proposals](types-of-proposals/text-proposals.md)
+* [🪛 Parameter Change Proposals](types-of-proposals/parameter-change-proposals.md)
 
 ## Governance User Guides
 

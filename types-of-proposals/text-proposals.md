@@ -1,4 +1,4 @@
-# Text Proposals
+# ✍ Text Proposals
 
 {% hint style="success" %}
 _**Anyone can submit a text proposal through**_ [_<mark style="color:blue;">**Umee's governance forum**</mark>_](https://commonwealth.im/umee/)_**.**_

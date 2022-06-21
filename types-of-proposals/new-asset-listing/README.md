@@ -1,4 +1,4 @@
-# New Asset Listing
+# 🆕 New Asset Listing
 
 {% hint style="success" %}
 _**Anyone can submit a new asset listing proposal through **<mark style="color:blue;">****</mark>_ [_<mark style="color:blue;">**Umee's governance forum**</mark>_](https://commonwealth.im/umee/)_**.**_

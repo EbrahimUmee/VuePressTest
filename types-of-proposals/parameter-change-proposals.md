@@ -1,4 +1,4 @@
-# Parameter Change Proposals
+# 🪛 Parameter Change Proposals
 
 {% hint style="danger" %}
 _**Parameter change proposals require significant technical knowledge.**_&#x20;
