@@ -1,4 +1,4 @@
-# New Asset Listing Template
+# 📄 New Asset Listing Template
 
 **Title** - Listing Proposal: \[Add/Remove] Support for \[Asset Name]
 

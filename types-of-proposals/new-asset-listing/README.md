@@ -1,15 +1,19 @@
 # 🆕 New Asset Listing
 
-{% hint style="success" %}
-_**Anyone can submit a new asset listing proposal through **<mark style="color:blue;">****</mark>_ [_<mark style="color:blue;">**Umee's governance forum**</mark>_](https://commonwealth.im/umee/)_**.**_
-{% endhint %}
-
 Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Adding more assets introduces more risk to the protocol, so it is important that anyone who wishes to propose a new asset on Umee has reviewed the asset risk documentation and is prepared to acknowledge:
 
 * The increased risk of insolvency that comes along with listing a new asset;&#x20;
 * Centralized asset risk;&#x20;
 * Magnified risks associated with collateral assets;&#x20;
 * Market diversification.
+
+{% content-ref url="new-asset-listing-template.md" %}
+[new-asset-listing-template.md](new-asset-listing-template.md)
+{% endcontent-ref %}
+
+{% embed url="https://commonwealth.im/umee/" %}
+_Anyone can submit a new asset listing request through Umee's governance forum._
+{% endembed %}
 
 ## 1) Research&#x20;
 
@@ -45,7 +49,7 @@ Use the "[_<mark style="color:blue;">New Asset Listing Template</mark>_](new-ass
 
 ****
 
-**Reference the "**[_<mark style="color:blue;">**New Asset Listing Template**</mark>_](new-asset-listing-template.md)**," to format and share your New Asset Listing Request as a thread.**
+**Reference the "**[_<mark style="color:blue;">**New Asset Listing Template**</mark>_](new-asset-listing-template.md)**," to format and share your New Asset Listing Request as a thread. Do your best to include as many important details as possible - the community can help with things like Risk Analysis and Security Considerations if needed.**
 
 
 

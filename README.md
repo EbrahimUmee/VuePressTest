@@ -10,5 +10,8 @@ Umee aims to make the governance process as easy and accessible as possible. If 
 
 ## Get Involved
 
-* _****_[_<mark style="color:blue;">**Learn how to vote on a governance proposal**</mark>_](https://docs.umee.cc/user-guides/governance/voting)_<mark style="color:blue;">****</mark>_
-* _****_[_<mark style="color:blue;">**Learn how to create an on-chain governance proposal**</mark>_](https://docs.umee.cc/user-guides/governance/creating-a-proposal)_<mark style="color:blue;">****</mark>_
+{% embed url="https://commonwealth.im/umee/" %}
+
+{% embed url="https://docs.umee.cc/user-guides/governance/voting" %}
+
+{% embed url="https://docs.umee.cc/user-guides/governance/creating-a-proposal" %}
