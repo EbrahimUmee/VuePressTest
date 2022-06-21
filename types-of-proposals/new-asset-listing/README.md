@@ -77,7 +77,7 @@ If the community’s feedback and the off-chain poll demonstrate clear support f
 {% tab title="2.4) Risk Analysis" %}
 If the community’s feedback and the off-chain poll demonstrate clear support for the new asset listing request, the Umee Team will assist the community to performing an in-depth risk assessment and create a risk score and recommendation for the asset in question.
 
-A proper risk analysis will score the asset based off of things like smart-contract risk, counterparty Risk, and overall risk with accompanying research-backed explanations.
+A proper risk analysis will score the asset based off of things like smart-contract risk, counterparty risk, and overall risk with accompanying research-backed explanations.
 {% endtab %}
 {% endtabs %}
 
