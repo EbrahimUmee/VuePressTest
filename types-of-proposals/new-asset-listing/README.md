@@ -24,15 +24,7 @@ Community members should be able to answer all of the basic questions found in t
 ## 2) Create the Proposal
 
 {% tabs %}
-{% tab title="2.1) Research" %}
-## **Research**
-
-Before proposing a new asset to be listed on Umee, it's incredibly important to research the asset and have a strong understanding of how it works, why it can be considered safe, and how it will benefit Umee users.
-
-Community members should be able to answer all of the basic questions found in the "[_<mark style="color:blue;">**New Asset Listing Template**</mark>_](new-asset-listing-template.md)" **** before moving on to step 2.
-{% endtab %}
-
-{% tab title="2.2) Draft" %}
+{% tab title="2.1) Draft" %}
 ## Draft & Share the New Asset Listing Request
 
 Use the "[_<mark style="color:blue;">New Asset Listing Template</mark>_](new-asset-listing-template.md)" to format your new asset listing request.&#x20;
@@ -62,20 +54,20 @@ Use the "[_<mark style="color:blue;">New Asset Listing Template</mark>_](new-ass
 ![](<../../.gitbook/assets/image (15).png>)
 {% endtab %}
 
-{% tab title="2.3) Engage" %}
+{% tab title="2.2) Engage" %}
 ## Engage With the Community
 
-**Once the drafted proposal has been shared on Commonwealth, the author should:**
+Once the drafted proposal has been shared on Commonwealth, the author should:
 
 * Encourage key community members (well respected contributors, validators, large stakers, etc.) to share their questions, concerns and/or constructive criticism.
 * Spread the word to bring attention to the proposal. Use tools like Twitter, Discord, Telegram, and Reddit to alert the community.
 * Answer relevant questions on the [<mark style="color:blue;">governance forum</mark>](https://commonwealth.im/umee/) and the #governance-discussion channel on the [<mark style="color:blue;">Umee Discord</mark>](https://discord.gg/umee).
-
-If the community’s feedback and the off-chain poll demonstrate clear support for the new asset listing request, the Umee Team will work with the community to perform an in-depth risk assessment and create a risk score and recommendation for the asset in question.
 {% endtab %}
 
-{% tab title="2.4) Risk Analysis" %}
-If the community’s feedback and the off-chain poll demonstrate clear support for the new asset listing request, the Umee Team will assist the community to performing an in-depth risk assessment and create a risk score and recommendation for the asset in question.
+{% tab title="2.3) Risk Analysis" %}
+## Risk Analysis
+
+If the community’s feedback and the off-chain poll demonstrate clear support for the new asset listing request, the Umee Team will assist the community to performing an in-depth risk assessment and create a risk score for the asset in question.
 
 A proper risk analysis will score the asset based off of things like smart-contract risk, counterparty risk, and overall risk with accompanying research-backed explanations.
 {% endtab %}
