@@ -1,6 +1,6 @@
 # 🏛 Governance
 
-![](<.gitbook/assets/image (1).png>)
+![](.gitbook/assets/Governance.jpg)
 
 Umee uses an on-chain governance structure where governance proposals are voted on by community members who [<mark style="color:blue;">stake UMEE</mark>](https://docs.umee.cc/user-guides/staking-umee/staking-umee). <mark style="color:blue;"></mark> When community members who stake their UMEE fail to [<mark style="color:blue;">vote</mark>](https://docs.umee.cc/user-guides/governance/voting) before a deadline, their votes are inherited by the [<mark style="color:blue;">validator</mark>](https://docs.umee.cc/user-guides/staking-umee/selecting-a-validator) they have delegated their stake to.&#x20;
 
