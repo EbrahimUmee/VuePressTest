@@ -85,7 +85,7 @@ _**Please note that a 10,000 UMEE deposit is required for all on-chain governanc
 
 **Select the New thread button and choose "New On-Chain Proposal" from the dropdown.**
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 ****
 
