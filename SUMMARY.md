@@ -26,6 +26,11 @@
 * [Voting Dashboard](https://wallet.keplr.app/#/umee/governance)
 * [On-Chain Proposals](https://www.mintscan.io/umee/proposals)
 
+## Documentation
+
+* [Learn](https://docs.umee.cc/umee)
+* [Community Governance](https://docs.umee.cc/governance)
+
 ## Links
 
 * [Web App](https://app.umee.cc/)
