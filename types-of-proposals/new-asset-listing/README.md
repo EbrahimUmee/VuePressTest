@@ -1,5 +1,7 @@
 # 🆕 New Asset Listing
 
+![](<../../.gitbook/assets/New Asset Listing.jpg>)
+
 Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Adding more assets introduces more risk to the protocol, so it is important that anyone who wishes to propose a new asset on Umee has reviewed the asset risk documentation and is prepared to acknowledge:
 
 * The increased risk of insolvency that comes along with listing a new asset;&#x20;

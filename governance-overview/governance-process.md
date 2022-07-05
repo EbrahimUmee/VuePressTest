@@ -1,6 +1,10 @@
 # ❓ How It Works
 
+![](<../.gitbook/assets/How It Works.jpg>)
+
 ## Creating a Proposal
+
+![](<../.gitbook/assets/governance proposal.png>)
 
 First, an idea should gain traction within the community and a proposal should be drafted. Community members should utilize the appropriate channels on [<mark style="color:blue;">Umee’s Governance Forum</mark>](https://commonwealth.im/umee/) and [<mark style="color:blue;">Umee's Discord</mark>](https://discord.gg/YukEZy8nkc) to discuss potential proposals before starting the draft process. Proposal ideas should be reviewed rigorously before taking any further steps.&#x20;
 

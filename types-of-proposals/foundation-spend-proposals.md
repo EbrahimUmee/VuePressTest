@@ -1,5 +1,7 @@
 # 💸 Foundation Spend Proposals
 
+![](<../.gitbook/assets/Foundation Spend Proposals.jpg>)
+
 Foundation Spend Proposals are used to request funds from the [<mark style="color:blue;">community & ecosystem pools</mark>](https://docs.umee.cc/umee/umee-overview/the-umee-token#community) to be sent to a specific wallet address. How community pool and ecosystem pool funds are spent is entirely up to community governance decisions.&#x20;
 
 #### A few ways in which the funds might be spent include:

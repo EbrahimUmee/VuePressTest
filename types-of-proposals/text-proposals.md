@@ -1,5 +1,7 @@
 # ✍ Text Proposals
 
+![](<../.gitbook/assets/Text Proposals.jpg>)
+
 Text proposals are an on chain representation, or signaling mechanism, for events that may happen off-chain. Unlike parameter change proposals and community spend proposals, the results of text proposals are not actually enforceable - though they should always be respected. Text proposals can be used for things like the formation of DAOs or other events that cannot be directly programmed.
 
 {% hint style="info" %}

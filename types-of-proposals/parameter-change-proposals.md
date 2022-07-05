@@ -1,5 +1,7 @@
 # 🪛 Parameter Change Proposals
 
+![](<../.gitbook/assets/Parameter Change Proposal.jpg>)
+
 {% hint style="danger" %}
 _**Parameter change proposals require significant technical knowledge.**_&#x20;
 {% endhint %}
